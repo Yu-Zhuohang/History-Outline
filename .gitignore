@@ -1,0 +1,10 @@
+# 本地临时文件（对话原文、验证截图、测试探针），不需要上传
+.tmp/
+
+# 系统 / 编辑器文件
+Thumbs.db
+desktop.ini
+.DS_Store
+.idea/
+.vscode/
+*.log
